@@ -1,0 +1,18 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\ID3\ID3\Frame.h(21,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\ID3\ID3\Frame.h(44,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\ID3\ID3\Frame.h(68,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\ID3\ID3\Frame.h(95,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\ID3\ID3\TagEdit.h(52,13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\User\source\repos\ID3\ID3\TagEdit.h(68,23): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\User\source\repos\ID3\ID3\TagEdit.h(74,22): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\User\source\repos\ID3\ID3\TagEdit.h(88,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\ID3\ID3\TagEdit.h(89,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\ID3\ID3\TagEdit.h(181,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\ID3\ID3\TagEdit.h(182,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\ID3\ID3\TagEdit.h(252,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\ID3\ID3\TagEdit.h(326,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\ID3\ID3\TagEdit.h(333,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\ID3\ID3\MyForm.cpp(7,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Frame.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ID3.vcxproj -> C:\Users\User\source\repos\ID3\Debug\ID3.exe
